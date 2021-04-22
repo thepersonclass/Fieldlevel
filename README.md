@@ -3,7 +3,7 @@
 This project is about exposing a single web api endpoint that returns the most recent post authored by each user from a third party data set.
 
 ## Requirements
-- You can choose ASP.NET or .NET Core, please let us if you choose .NET core so we can change the environment on azure so auto deploys will work as you push code to the master branch.
+- You can choose ASP.NET or .NET Core, please let us know if you choose .NET core so we can change the environment on azure so auto deploys will work as you push code to the master branch.
 
 - Call your project Fieldlevel so that end up with a FieldLevel.csproj
 - The data set is located here https://jsonplaceholder.typicode.com/posts
