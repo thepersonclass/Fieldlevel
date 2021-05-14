@@ -9,6 +9,8 @@ This project is about exposing a single web api endpoint that returns the most r
 - The data set is located here https://jsonplaceholder.typicode.com/posts
 - Results should display the most recent post authored by each user. Use post.id to determine recency.
 - Regardless of the frequency at which your endpoint is requested across multi devices, the third party data set should not be requested more than once per minute.
+- Due to the simplicity of this test, you'll also be evaluated based on thoroughness and thoughtfulness of your solution. 
+- Code the exercise as if you were doing this at a job.
 - Please do not spend more than a 4 hours on this task.
 
 ## Deliverables
