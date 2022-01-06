@@ -1,0 +1,338 @@
+﻿++Solution 'Fieldlevel' ‎(8 of 8 projects)
+i:{00000000-0000-0000-0000-000000000000}:Fieldlevel.sln
+++docker-compose
+i:{00000000-0000-0000-0000-000000000000}:docker-compose
+++.dockerignore
+i:{6bd2ec46-fa8f-44f3-af33-903bbb347116}:c:\users\17608\documents\repo\fieldlevel\.dockerignore
+++docker-compose.override.yml
+i:{6bd2ec46-fa8f-44f3-af33-903bbb347116}:c:\users\17608\documents\repo\fieldlevel\docker-compose.override.yml
+++docker-compose.yml
+i:{6bd2ec46-fa8f-44f3-af33-903bbb347116}:c:\users\17608\documents\repo\fieldlevel\docker-compose.yml
+++global.json
+i:{6bd2ec46-fa8f-44f3-af33-903bbb347116}:c:\users\17608\documents\repo\fieldlevel\global.json
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\clientapp\src\
+++Application
+i:{6ed356a7-8b47-4613-ad01-c85cf28491bd}:Application
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\application\application.csproj
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\application\application.csproj
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\src\application\application.csproj
+++Dependencies
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:>782
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>800
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:>781
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1236
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>778
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:>779
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>780
+++Common
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\common\
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\tests\application.unittests\common\
+++Behaviours
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\behaviours\
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\tests\application.unittests\common\behaviours\
+++UnhandledExceptionBehaviour.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\behaviours\unhandledexceptionbehaviour.cs
+++ValidationBehaviour.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\behaviours\validationbehaviour.cs
+++Exceptions
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\exceptions\
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\exceptions\
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\tests\application.unittests\common\exceptions\
+++ForbiddenAccessException.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\exceptions\forbiddenaccessexception.cs
+++NotFoundException.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\exceptions\notfoundexception.cs
+++ValidationException.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\exceptions\validationexception.cs
+++Interfaces
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\interfaces\
+++Mappings
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\mappings\
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\tests\application.unittests\common\mappings\
+++IMapFrom.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\mappings\imapfrom.cs
+++MappingExtensions.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\mappings\mappingextensions.cs
+++MappingProfile.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\mappings\mappingprofile.cs
+++Models
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\models\
+++PaginatedList.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\models\paginatedlist.cs
+++Result.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\models\result.cs
+++Security
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\common\security\
+++WeatherForecasts
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\weatherforecasts\
+++Queries
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\weatherforecasts\queries\
+++GetWeatherForecasts
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\weatherforecasts\queries\getweatherforecasts\
+++GetWeatherForecastsQuery.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\weatherforecasts\queries\getweatherforecasts\getweatherforecastsquery.cs
+++WeatherForecast.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\weatherforecasts\queries\getweatherforecasts\weatherforecast.cs
+++DependencyInjection.cs
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\dependencyinjection.cs
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\dependencyinjection.cs
+++Analyzers
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:analyzers
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:analyzers
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:analyzers
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:analyzers
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:analyzers
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:analyzers
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:analyzers
+++Frameworks
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:frameworks
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:frameworks
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:frameworks
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:frameworks
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:frameworks
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:frameworks
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:frameworks
+++Packages
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:packages
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:packages
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:packages
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:packages
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:packages
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:packages
+++Projects
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:projects
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:projects
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:projects
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:projects
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:projects
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\application\microsoft.netcore.app
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\microsoft.netcore.app
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\microsoft.netcore.app
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\microsoft.netcore.app
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\tests\application.unittests\microsoft.netcore.app
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\users\17608\documents\repo\fieldlevel\tests\domain.unittests\microsoft.netcore.app
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\documents\repo\fieldlevel\tests\application.integrationtests\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:>1253
+++FluentValidation.DependencyInjectionExtensions (10.3.4)
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:>1251
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:>1254
+++Microsoft.EntityFrameworkCore (6.0.0)
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:>1252
+++Domain
+i:{34c0facd-f3d9-400c-8945-554dd6b0819a}:c:\users\17608\documents\repo\fieldlevel\src\domain\domain.csproj
+i:{6ed356a7-8b47-4613-ad01-c85cf28491bd}:Domain
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\users\17608\documents\repo\fieldlevel\src\domain\domain.csproj
+++Infrastructure
+i:{6ed356a7-8b47-4613-ad01-c85cf28491bd}:Infrastructure
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\infrastructure.csproj
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\infrastructure.csproj
+++Files
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\files\
+++Maps
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\files\maps\
+++TodoItemRecordMap.cs
+++Identity
+++Persistence
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\persistence\
+++Services
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\users\17608\documents\repo\fieldlevel\src\infrastructure\services\
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\services\
+++Microsoft.AspNetCore.App.Analyzers
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++CsvHelper (15.0.10)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1291
+++Microsoft.AspNetCore.ApiAuthorization.IdentityServer (6.0.0)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1293
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.0)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1278
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1281
+++Microsoft.EntityFrameworkCore.InMemory (6.0.0)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1290
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
+i:{117da02f-5274-4565-acc6-da9b6e568b09}:>1275
+++AuditableEntity.cs
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\common\auditableentity.cs
+++ValueObject.cs
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\common\valueobject.cs
+++Entities
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\entities\
+++Enums
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\enums\
+++PriorityLevel.cs
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\enums\prioritylevel.cs
+++Events
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\events\
+++ValueObjects
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\valueobjects\
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:c:\users\17608\documents\repo\fieldlevel\tests\domain.unittests\valueobjects\
+++_Imports.cs
+i:{c7e89a3e-a631-4760-8d61-bd1eab1c4e69}:c:\users\17608\documents\repo\fieldlevel\src\domain\_imports.cs
+++WebUI
+i:{6ed356a7-8b47-4613-ad01-c85cf28491bd}:WebUI
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\documents\repo\fieldlevel\src\webui\webui.csproj
+++Connected Services 
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1237
+++Properties
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\properties\
+++wwwroot
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\wwwroot\
+++Controllers
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\controllers\
+++ApiControllerBase.cs
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\controllers\apicontrollerbase.cs
+++WeatherForecastController.cs
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\controllers\weatherforecastcontroller.cs
+++Filters
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\filters\
+++ApiExceptionFilterAttribute.cs
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\filters\apiexceptionfilterattribute.cs
+++appsettings.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\appsettings.json
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\documents\repo\fieldlevel\tests\application.integrationtests\appsettings.json
+++Dockerfile
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\dockerfile
+++nswag.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\nswag.json
+++Program.cs
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\program.cs
+++Startup.cs
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\startup.cs
+++No service dependencies discovered
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1238
+++launchSettings.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\properties\launchsettings.json
+++api
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\wwwroot\api\
+++favicon.ico
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\wwwroot\favicon.ico
+++appsettings.Development.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\appsettings.development.json
+++appsettings.Production.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\appsettings.production.json
+++Microsoft.AspNetCore.Analyzers
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\microsoft.aspnetcore.app
+++FluentValidation.AspNetCore (10.3.4)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1326
+++Microsoft.AspNetCore.Identity.UI (6.0.0)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1332
+++Microsoft.AspNetCore.SpaServices.Extensions (6.0.0)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1328
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1329
+++Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore (6.0.0)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1333
+++Microsoft.Extensions.FileProviders.Embedded (6.0.0)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1327
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.11.1)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1330
+++NSwag.AspNetCore (13.9.4)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1331
+++NSwag.MSBuild (13.9.4)
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:>1334
+++specification.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\wwwroot\api\specification.json
+++tests
+i:{00000000-0000-0000-0000-000000000000}:tests
+++Application.UnitTests
+i:{664d406c-2f83-48f0-bfc3-408d5cb53c65}:Application.UnitTests
+++ValidationExceptionTests.cs
+++MappingTests.cs
+++FluentAssertions (6.2.0)
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>1309
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:>1280
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1279
+++Microsoft.NET.Test.Sdk (17.0.0)
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>1308
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:>1276
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1277
+++Moq (4.16.1)
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>1312
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1289
+++NUnit (3.13.2)
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>1310
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:>1283
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1282
+++NUnit3TestAdapter (4.1.0)
+i:{deff4009-1fab-4392-80b6-707e2dc5c00b}:>1311
+i:{dc37fd87-552c-4613-9f16-1537ca522898}:>1285
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1286
+++Domain.UnitTests
+i:{664d406c-2f83-48f0-bfc3-408d5cb53c65}:Domain.UnitTests
+++Application.IntegrationTests
+i:{664d406c-2f83-48f0-bfc3-408d5cb53c65}:Application.IntegrationTests
+++TestBase.cs
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\documents\repo\fieldlevel\tests\application.integrationtests\testbase.cs
+++Testing.cs
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:c:\users\17608\documents\repo\fieldlevel\tests\application.integrationtests\testing.cs
+++Respawn (4.0.0)
+i:{277029af-d9e1-4b75-9f11-48fea7345ad7}:>1284
+++ClientApp
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\clientapp\
+++app
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\clientapp\src\app\
+++web-api-client.ts
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\clientapp\src\app\web-api-client.ts
+++package-lock.json
+i:{22454ee9-16b3-4b7a-8352-37e59b858155}:c:\users\17608\documents\repo\fieldlevel\src\webui\clientapp\package-lock.json

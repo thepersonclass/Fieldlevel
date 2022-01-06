@@ -22,6 +22,11 @@ This project is about exposing a single web api endpoint that returns the most r
 - create a pull request against your Github repository
 - let us(your interview coordinator) know when you are ready to review
 
+## Architecture
+
+- This tech stack comes from [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture). The youtube video listed in the github goes over all the layering.
+
+
 
 # How To Run
 
