@@ -11,11 +11,11 @@ FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 RUN curl -sL https://deb.nodesource.com/setup_12.x | bash -
 RUN apt install -y nodejs
 WORKDIR /src
-COPY ["src/Fieldlevel/Fieldlevel.csproj", "src/Fieldlevel/"]
+COPY ["src/Fieldlevel/Fieldlevel.csproj", "src/WebUI/"]
 COPY ["src/Application/Application.csproj", "src/Application/"]
 COPY ["src/Domain/Domain.csproj", "src/Domain/"]
 COPY ["src/Infrastructure/Infrastructure.csproj", "src/Infrastructure/"]
-RUN dotnet restore "src/Fieldlevel/Fieldlevel.csproj"
+RUN dotnet restore "src/WebUI/Fieldlevel.csproj"
 COPY . .
 WORKDIR "/src/src/Fieldlevel"
 RUN dotnet build "Fieldlevel.csproj" -c Release -o /app/build

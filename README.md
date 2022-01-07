@@ -30,7 +30,7 @@ This project is about exposing a single web api endpoint that returns the most r
 
 # How To Run
 
-{Provide any details FieldLevel should know to get this running}
+The solution was written using .Net Core 5.0. To run from the solution you should be able to launch the api in IIS Express to access the swagger just navigate to /swagger.
 
 # Deployment
 This will be auto deployed to an azure site

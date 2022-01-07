@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   webui:
-    image: ${DOCKER_REGISTRY-}webui
+    image: ${DOCKER_REGISTRY-}fieldlevel
     build:
       context: .
       dockerfile: src/WebUI/Dockerfile
