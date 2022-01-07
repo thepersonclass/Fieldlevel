@@ -2,7 +2,7 @@
 
 using Microsoft.AspNetCore.Mvc;
 
-namespace Fieldlevel.WebUI.Controllers;
+namespace FieldlevelWebApi.Fieldlevel.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

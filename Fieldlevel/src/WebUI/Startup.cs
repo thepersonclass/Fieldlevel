@@ -1,11 +1,10 @@
 using Fieldlevel.Application;
 using Fieldlevel.Infrastructure;
-using Fieldlevel.WebUI.Filters;
+using FieldlevelWebApi.Fieldlevel.Filters;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Mvc;
-using NSwag;
 
-namespace Fieldlevel.WebUI;
+namespace FieldlevelWebApi.Fieldlevel;
 
 public class Startup
 {
@@ -26,17 +25,25 @@ public class Startup
 
         services.AddHealthChecks();
 
+        services.AddHttpClient("UserPost")
+                .SetHandlerLifetime(TimeSpan.FromSeconds(5));
+
         services.AddControllersWithViews(options =>
             options.Filters.Add<ApiExceptionFilterAttribute>())
                 .AddFluentValidation(x => x.AutomaticValidationEnabled = false);
 
         // Customise default API behaviour
-        services.Configure<ApiBehaviorOptions>(options => 
+        services.Configure<ApiBehaviorOptions>(options =>
             options.SuppressModelStateInvalidFilter = true);
 
-        services.AddOpenApiDocument(configure =>
+        services.AddSwaggerDocument(config =>
         {
-            configure.Title = "Fieldlevel API";
+            config.PostProcess = document =>
+            {
+                document.Info.Version = "v1";
+                document.Info.Title = "Fieldlevel User Post API";
+                document.Info.Description = "Job interview exercise";
+            };
         });
     }
 
@@ -50,19 +57,14 @@ public class Startup
         else
         {
             app.UseExceptionHandler("/Error");
-            // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-            app.UseHsts();
         }
 
         app.UseHealthChecks("/health");
         app.UseHttpsRedirection();
         app.UseStaticFiles();
 
-        app.UseSwaggerUi3(settings =>
-        {
-            settings.Path = "/api";
-            settings.DocumentPath = "/api/specification.json";
-        });
+        app.UseOpenApi();
+        app.UseSwaggerUi3();
 
         app.UseRouting();
 
