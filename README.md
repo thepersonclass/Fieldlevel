@@ -24,7 +24,7 @@ This project is about exposing a single web api endpoint that returns the most r
 
 ## Architecture
 
-- This tech stack comes from [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture). The youtube video listed in the github goes over all the layering.
+- This tech stack comes from the [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture). The youtube video listed in the clean architecture github goes over all the layering.
 
 
 
